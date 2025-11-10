@@ -1,2 +1,15 @@
-# IUSE Scholars Academy 
-This repository hosts the official website for the IUSE Scholars Academy at Kean University. The site serves as a centralized hub for program materials, including digital flyers, student projects, and mentor information.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IUSE Scholars Academy</title>
+</head>
+<body>
+  <h1>Welcome to the IUSE Scholars Academy</h1>
+  <ul>
+    <li><a href="Events/">Event Flyers</a></li>
+    <li><a href="Student Research/">Student Research Projects</a></li>
+    <li><a href="Mentor Directory/">Mentor Directory</a></li>
+  </ul>
+</body>
+</html>
